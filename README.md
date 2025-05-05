@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-kfnzero-mantis-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-kfnzero-mantis-mcp-server)
+
 # Mantis MCP Server
 
 Mantis MCP Server 是一個基於 Model Context Protocol (MCP) 的服務，用於與 Mantis Bug Tracker 系統進行集成。它提供了一系列工具，允許用戶通過 MCP 協議查詢和分析 Mantis 系統中的數據。
